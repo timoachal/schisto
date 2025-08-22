@@ -243,7 +243,6 @@ elif page == "About Schistosomiasis":
         - **Avoid wading, swimming, or bathing** in freshwater in endemic areas.
         - Use safe water from boreholes or taps.
         - Improve sanitation to prevent human waste from contaminating water.
-        - The disease is easily treated with the drug **Praziquantel**.
         """)
 
 # Footer
